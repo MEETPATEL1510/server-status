@@ -1,9 +1,9 @@
 {
-  "token": "**Discord Bot Token**",
+  "token": "**OTU1MDA3MTAxOTA0NzUyNjcw.YjbZrA.yNDYWqir_D9t5Ghs_MLxHg5rSSo**",
   "prefix": "mc!",
-  "serverAddress": "**minecraft server address (ip/hostname)**",
-  "serverPort": "25565",
-  "serverName": "**Server Name**",
+  "serverAddress": "**78.46.105.177**",
+  "serverPort": "26741",
+  "serverName": "**Hivesmp**",
   "updateInterval": "1min",
   "showPlayerSample": true,
   "debugMode": true,
